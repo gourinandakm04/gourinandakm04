@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @gourinandakm04
 - 👀 I’m interested in Artificial intelligence
 - 🌱 I’m currently learning Artificial intelligence
-- 
 - 📫 How to reach me gourinandakm04@gmail.com
 
 <!---
