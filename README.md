@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Gourinanda K M
-- 👀 I’m interested in Artificial intelligence
-- 🌱 I’m currently learning Artificial intelligence
+- 👩‍💻Abhot Me
+   🤔Exploring New technologies and Learning it 
+   🎓Studying B.voc Mathematics and AI at St.joseph's college(Autonomous),Irinjalakuda.
+   🎓Studied Biology Science at Govt.Higher Secondary School Kodakara
+   🌱Learning more about Machine Learning and Artificial Intelligence
+    
 - 📫 How to reach me gourinandakm04@gmail.com
 
-<!---
-gourinandakm04/gourinandakm04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
