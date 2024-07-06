@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Gourinanda K M
 - 👩‍💻Abhot Me
+
    •🤔Exploring New technologies and Learning it
   
    •🎓Studying B.voc Mathematics and AI at St.joseph's college(Autonomous),Irinjalakuda.
